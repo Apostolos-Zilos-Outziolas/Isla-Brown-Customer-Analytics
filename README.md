@@ -17,3 +17,12 @@ The SQL queries utilized to clean, organize and prepare data for the dashboard c
 
 Targeted SQL queries regarding various business questions can be found here.
 
+## Data Structure & Initial Checks
+
+Isla Brown's database structure as seen below consists of dour tables: hotel_revenue_2018, hotel_revenue_2019, hoel_revenue_2020 and market_segment with a total row count of 141.939 records.
+
+![ERD](https://github.com/user-attachments/assets/bd936a9b-457b-4721-94d5-34c43b9687d0)
+
+## Executive Summary
+
+
