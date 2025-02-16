@@ -25,4 +25,7 @@ Isla Brown's database structure as seen below consists of dour tables: hotel_rev
 
 ## Executive Summary
 
+### Overview of Findings
+There was a peak of bookings in 2019 and more accurately in early till late fall(August through October) of 2019 in both city and resort hotels, although with an unexpectedly high Cancelling Probability for most of the customer categories and a relatively mild Calcellation Rate(10%-40% depending on the customer category). The average of the Days in Waiting List was low for the resort hotels(0-6 days depending on the customer type) as weel as for the city hotels(0-5 days) with the exception of the transient group customer category whose maximum average of Days in Waiting List was 15 days. The Average Length of Stay(ALOS) was cosistently higher for the resort hotels, while the Average Lead Time(ALT) followed the same trends for both the resort and city hotels.
 
+## Marketing Trends
