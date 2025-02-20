@@ -41,4 +41,6 @@ There was a peak of bookings in 2019 and more accurately in early till late fall
 
 * **The cancellation rete in city hotels was the lowest in November 2018 with 0.24**, and **had the highest value in July 2018 with 0.67**. From **November 2018 until June 2019 the cancellation rate increased**, however with constant fluctuations on a month to month basis. From **October 2019 until 2020 March the cancellation rate continued to increase** with bigger fluctuation peaks. **After April 2020 the cancellation rate continuously decreased**.
 
-* 
+* The cancellation rate of transient type customers was relatively constant, with a peak in July 2018 of 0.64 and the lowest value of 0.29 in August 2018 and November 2018.
+
+*  
