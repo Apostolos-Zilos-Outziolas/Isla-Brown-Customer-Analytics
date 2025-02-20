@@ -37,5 +37,8 @@ There was a peak of bookings in 2019 and more accurately in early till late fall
 * Following August 2019, **bookings reduced with continuous resurgences in a month to month basis** until **March 2020, where bookings were consistently improving until August 2020**, while however not reaching their peak.
 
 ## Guest Behaviour in City Hotels
+* **The ALOS in city hotels peaked in November 2018 with a value of 2.15**, and had the **lowest value in July 2018 with 0.79**, however there weren't significant fluctuations on a month to month basis.
 
+* **The cancellation rete in city hotels was the lowest in November 2018 with 0.24**, and **had the highest value in July 2018 with 0.67**. From **November 2018 until June 2019 the cancellation rate increased**, however with constant fluctuations on a month to month basis. From **October 2019 until 2020 March the cancellation rate continued to increase** with bigger fluctuation peaks. **After April 2020 the cancellation rate continuously decreased**.
 
+* 
