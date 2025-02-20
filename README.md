@@ -30,17 +30,40 @@ There was a peak of bookings in 2019 and more accurately in early till late fall
 * No other distrubution channels seemed to be sufficient, considering the lowest difference in bookings was 1769 bookings in January 2020.
 
 * The second most popular customer category was Transient Group customers, **following the same pattern as the Transient customer category**, **peaking with a total of 2372 customers in November 2019**, while **the lowest amount was in January 2020 totaling 300 customers**.
-
+  
 ## Marketing Trends for Resort Hotels
 * The **company's bookings peaked in August 2019** with the **most bookings per market segment belonging to online Travel Agency customers corresponding to 1777 bookings**, **most bookings per distribution channel being Travel Agent or Travel Operator with 2409 bookings** and **most customers belonged in the Transient customer category with 2694 customers** in total.
 
 * Following August 2019, **bookings reduced with continuous resurgences in a month to month basis** until **March 2020, where bookings were consistently improving until August 2020**, while however not reaching their peak.
 
+ ![market_segment](https://github.com/user-attachments/assets/7dbb91ef-f9bd-4534-95f8-b802a2cad291)
+
+
+![distribution channel](https://github.com/user-attachments/assets/5a607b3a-8cf6-423d-be28-1b12157ea3ff)
+
+
+![bookings per customer category](https://github.com/user-attachments/assets/6b099312-d5d8-4be6-8e9b-33c61c30155d)
+
 ## Guest Behaviour in City Hotels
 * **The ALOS in city hotels peaked in November 2018 with a value of 2.15**, and had the **lowest value in July 2018 with 0.79**, however there weren't significant fluctuations on a month to month basis.
 
-* **The cancellation rete in city hotels was the lowest in November 2018 with 0.24**, and **had the highest value in July 2018 with 0.67**. From **November 2018 until June 2019 the cancellation rate increased**, however with constant fluctuations on a month to month basis. From **October 2019 until 2020 March the cancellation rate continued to increase** with bigger fluctuation peaks. **After April 2020 the cancellation rate continuously decreased**.
+* **The cancellation rate in city hotels was the lowest in November 2018 with 0.24**, and **had the highest value in July 2018 with 0.67**. From **November 2018 until June 2019 the cancellation rate increased**, however with constant fluctuations on a month to month basis. From **October 2019 until 2020 March the cancellation rate continued to increase** with bigger fluctuation peaks. **After April 2020 the cancellation rate continuously decreased**.
 
-* The cancellation rate of transient type customers was relatively constant, with a peak in July 2018 of 0.64 and the lowest value of 0.29 in August 2018 and November 2018.
+* The cancellation rate of transient type customers was relatively constant, with a **peak in July 2018 of 0.64** and the **lowest value of 0.29 in August 2018 and November 2018**. 
 
-*  
+## Guest Behaviour in Resort Hotels
+* **The ALOS  in resort hotels peaked in June 2019 with a value of 4.05**, and **had the lowest value in February 2019 with 1.88** A dip in the ALOS is noticable from October until November, while it increases in the summer months.
+
+* **The cancellation rate in resort hotels was the lowest in January 2020 with 0.16** and **had the highest value in August 2020 with 0.39**. A dip in the cancellation rate can be seen in November until January with fluctuations, while it increases in the following months until October.
+
+* The cancellation rate of transient type customers was relatively constant, with a **peak in August 2020 of 0.43** and the **lowest value of 0.12 in November 2018**.
+
+![ALOS](https://github.com/user-attachments/assets/08fd7d0a-771f-4a17-902f-7d9bde93472d)
+
+
+![CANCELLATION RATE](https://github.com/user-attachments/assets/ae733d76-8e51-4525-b80c-b19975cc0a5e)
+
+
+![cancellation rate per customr category](https://github.com/user-attachments/assets/c3e74fdc-408c-4315-ad96-febceac1723f)
+
+## Recommendations
