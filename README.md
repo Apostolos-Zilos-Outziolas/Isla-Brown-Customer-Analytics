@@ -18,7 +18,7 @@ Isla Brown's database structure as seen below consists of dour tables: hotel_rev
 ## Executive Summary
 
 ### Overview of Findings
-There was a peak of bookings in 2019 and more accurately in early till late fall(August through October) of 2019 in both city and resort hotels, although with an unexpectedly high Cancelling Probability for most of the customer categories and a relatively mild Calcellation Rate(10%-40% depending on the customer category). The annual average of the Days in Waiting List was low for the resort hotels(0-6 days depending on the customer type) as weel as for the city hotels(0-5 days) with the exception of the transient group customer category whose maximum average of Days in Waiting List was 15 days. The Average Length of Stay(ALOS) was cosistently higher for the resort hotels, while the Average Lead Time(ALT) followed the same trends for both the resort and city hotels.
+There was a peak of bookings in 2019 and more accurately in early till late fall(August through October) of 2019 in both city and resort hotels, although with an unexpectedly high Cancelling Probability for most of the customer categories and a relatively mild Calcellation Rate(10%-40% depending on the customer category). The annual average of the Days in Waiting List was low for the resort hotels(0-6 days depending on the customer type) as weel as for the city hotels(0-5 days) with the exception of the transient group customer category whose maximum average of Days in Waiting List was 15 days. The Average Length of Stay(ALOS) was cosistently higher for the resort hotels.
 
 ## Marketing Trends for City Hotels
 * The **company's bookings peaked in October 2019** with the **most bookings per market segment belonging to online Travel Agent customers corresponding to 2852 bookings**, **most bookings per distribution channel being Travel Agent or Travel Operator with 6819 bookings** and **most customers belonged in the Transient customer category with 4584 customers** in total.
@@ -67,3 +67,12 @@ There was a peak of bookings in 2019 and more accurately in early till late fall
 ![cancellation rate per customr category](https://github.com/user-attachments/assets/c3e74fdc-408c-4315-ad96-febceac1723f)
 
 ## Recommendations
+Based on the uncovered insights, the following recommendations have been provided:
+
+* In order to mitigate the negative effects of seasonality, noticable by the drops of bookings in the early months of the year, management should seek to attract customers during these off-peak periods. More specifically, **a focus on improving utilixzation of market segments that are not popular, such as the group, direct, corporate and complementary market segment, may improve the number of bookings**.
+
+* Noticing that online Travel Agents or Travel Operators attract more customers, **emphhasis should be placed on maximising their marketing and commercial potential**.
+
+* Marketing efforts should be directed towards attracting customers other than the **transient category**, considering **they make up for 65%-90% of total bookings** in general .
+
+* **The ALOS in resort hotels is consistently higher than the ALOS in city hotels**. In order to increase the ALOS of city hotels, and thus maximize profit, attractive packages and pricing can be promoted to potential customers or customers that may increase their stay at the hotel.
